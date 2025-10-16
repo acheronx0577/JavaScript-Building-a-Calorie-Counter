@@ -8,7 +8,7 @@ A responsive web application for tracking daily calorie intake and expenditure. 
 
 <img width="831" height="875" alt="Screenshot 2025-10-16 134223" src="https://github.com/user-attachments/assets/a7a7bbed-5f61-4a47-a3aa-7490da4ba6cf" />
 
-Link Demo: [Add your GitHub Pages link here]
+Link Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
 
 ---
 
@@ -31,11 +31,11 @@ Link Demo: [Add your GitHub Pages link here]
 ## 🚀 How to Run
 # Clone the repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Random-Background-Color-Changer.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Calorie-Counter.git
 ```
 # Open the folder
 ```
-cd JavaScript-Random-Background-Color-Changer
+cd JavaScript-Building-a-Calorie-Counter
 ```
 # Run in your browser
 ```
