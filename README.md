@@ -16,7 +16,7 @@ This project was completed as part of the freeCodeCamp certification requirement
 
 <img width="831" height="875" alt="Screenshot 2025-10-16 134223" src="https://github.com/user-attachments/assets/a7a7bbed-5f61-4a47-a3aa-7490da4ba6cf" />
 
-Link Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
+Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
 
 ---
 
