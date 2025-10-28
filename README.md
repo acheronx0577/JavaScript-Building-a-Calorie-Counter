@@ -42,19 +42,15 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
 
 ---
 
-## 🚀 How to Run
-# Clone the repo
+## 🧰 Installation & Usage
+
+### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Calorie-Counter.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Number-Sorter.git
 ```
-# Open the folder
-```
-cd JavaScript-Building-a-Calorie-Counter
-```
-# Run in your browser
-```
-open index.html
-```
+
+### 2️⃣ Run the file
+Just open `index.html` in your favorite browser 🌐 and start playing!
 
 ---
 
