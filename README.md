@@ -26,22 +26,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
 
 ---
 
-## 🧠 What I Learned
-- Advanced **DOM manipulation** and dynamic element creation  
-- **Form validation** and input sanitization  
-- **Event handling** for user interactions  
-- **CSS custom properties** for consistent theming  
-- **JavaScript array methods** and form data processing  
-
----
-
-## 🧰 Tech Stack
-- 🟨 JavaScript (ES6)  
-- 🌐 HTML5  
-- 🎨 CSS3  
-
----
-
 ## 🧰 Installation & Usage
 
 ### 1️⃣ Clone this repo
