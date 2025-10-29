@@ -19,7 +19,10 @@ This repository contains the complete portfolio of projects needed to demonstrat
 ---
 
 ## 📸 App Preview
+### New Design:
+<img width="976" height="1261" alt="Screenshot 2025-10-29 150751" src="https://github.com/user-attachments/assets/bcc1b3fe-fc55-4559-8c94-b7d91f283b58" />
 
+### Old Design:
 <img width="831" height="875" alt="Screenshot 2025-10-16 134223" src="https://github.com/user-attachments/assets/a7a7bbed-5f61-4a47-a3aa-7490da4ba6cf" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Calorie-Counter
